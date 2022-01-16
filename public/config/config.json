@@ -14,5 +14,6 @@
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/amphibitz",
-  "SHOW_BACKGROUND": true
+  "SHOW_BACKGROUND": true,
+  "MOBILE_LINK": "https://youtu.be/QFMcU6T8mog"
 }
