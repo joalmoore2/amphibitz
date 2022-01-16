@@ -313,8 +313,8 @@ function App() {
                       Connect to the {CONFIG.NETWORK.NAME} network
                     </s.TextDescription>
                     <s.SpacerSmall />
-                   <StyledLink target={"_blank"} href={CONFIG.NETWORK.MOBILE_LINK}>
-                   Mint NFT on Mobile
+                   <StyledLink target={"_blank"} href={CONFIG.MOBILE_LINK}>
+                   Learn how to mint NFT on Mobile
                 </StyledLink>
                     <s.SpacerSmall />
                     <StyledButton
