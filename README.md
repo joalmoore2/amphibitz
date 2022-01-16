@@ -1,20 +1,11 @@
-# Welcome to The Stripes NFT 💎
+# Welcome to Amphibitz
 
-![](https://github.com/The-Stripes-NFT/nft-minting-app/blob/main/logo-blob.png)
+![](https://github.com/joalmoore2/amphibitz/blob/main/logo-blob.png)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
-To find out more please visit:
 
-[📺 YouTube](https://www.youtube.com/AliSolanki)
-
-[💬 Telegram](https://t.me/studentsamaj)
-
-[🐦 Twitter](https://twitter.com/thestripesnft)
-
-[ℹ️ Website](https://thestripesnft.com/)
-
-# The Stripes NFT minting dapp 🔥
+# The Amphibitz NFT minting dapp 🔥
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
@@ -27,7 +18,7 @@ The more complex route allows you to add additional functionality if you are com
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
-git clone https://github.com/The-Stripes-NFT/nft-minting-app.git
+git clone https://github.com/joalmoore2/amphibitz.git
 ```
 
 Make sure you have node.js installed so you can use npm, then run:
@@ -91,16 +82,16 @@ Now you will need to create and change the `public/favicon.ico`, `public/logo192
 Remember to update the title and description the `public/index.html` file
 
 ```html
-<title>The Stripes NFT</title>
-<meta name="description" content="Mint your Stripes NFT" />
+<title>Amphibitz</title>
+<meta name="description" content="Mint your Amphibitz NFT" />
 ```
 
 Also remember to update the short_name and name fields in the `public/manifest.json` file
 
 ```json
 {
-  "short_name": "TSNFT",
-  "name": "The Stripes NFT"
+  "short_name": "AMP",
+  "name": "Amphibitz"
 }
 ```
 
