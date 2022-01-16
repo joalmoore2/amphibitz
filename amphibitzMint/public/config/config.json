@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA5Acd637C26Cc3CBFD504d1e991b592A7051883A",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa5acd637c26cc3cbfd504d1e991b592a7051883a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Amphibitz",
+  "SYMBOL": "AMP",
+  "MAX_SUPPLY": 250,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/amphibitz",
+  "SHOW_BACKGROUND": true
+}
