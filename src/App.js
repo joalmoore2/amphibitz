@@ -313,14 +313,9 @@ function App() {
                       Connect to the {CONFIG.NETWORK.NAME} network
                     </s.TextDescription>
                     <s.SpacerSmall />
-                        <s.TextDescription
-                      style={{
-                        textAlign: "center",
-                        color: "var(--accent-text)",
-                      }}
-                    >
-                      Mint NFT on Mobile {CONFIG.NETWORK.MOBILE_LINK}
-                    </s.TextDescription>
+                   <StyledLink target={"_blank"} href={CONFIG.NETWORK.MOBILE_LINK}>
+                   Mint NFT on Mobile
+                </StyledLink>
                     <s.SpacerSmall />
                     <StyledButton
                       onClick={(e) => {
