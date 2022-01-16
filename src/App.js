@@ -313,6 +313,15 @@ function App() {
                       Connect to the {CONFIG.NETWORK.NAME} network
                     </s.TextDescription>
                     <s.SpacerSmall />
+                        <s.TextDescription
+                      style={{
+                        textAlign: "center",
+                        color: "var(--accent-text)",
+                      }}
+                    >
+                      Mint NFT on Mobile {CONFIG.NETWORK.MOBILE_LINK}
+                    </s.TextDescription>
+                    <s.SpacerSmall />
                     <StyledButton
                       onClick={(e) => {
                         e.preventDefault();
