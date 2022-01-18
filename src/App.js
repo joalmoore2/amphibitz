@@ -316,6 +316,10 @@ function App() {
                    <StyledLink target={"_blank"} href={CONFIG.MOBILE_LINK}>
                    Learn how to mint NFT on Mobile
                 </StyledLink>
+                 <s.SpacerSmall />
+                   <StyledLink target={"_blank"} href={CONFIG.BUY_MATIC}>
+                   Buy Matic to mint you Amphibitz
+                </StyledLink>
                     <s.SpacerSmall />
                     <StyledButton
                       onClick={(e) => {
